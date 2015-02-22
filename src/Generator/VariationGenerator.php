@@ -1,4 +1,4 @@
-<?php namespace Jiro\Variation\VariationGenerator\;
+<?php namespace Jiro\Variation\VariationGenerator;
 
 use Jiro\Variation\VariationGeneratorInterface;
 
